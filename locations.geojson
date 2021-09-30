@@ -37,5 +37,22 @@
 			"coordinates": [135.594363, 34.732227]
 
 		}
-	}]
+	}, {
+                "type": "Feature",
+                "properties": {
+                        "id": "9b0afa6c-3367-407d-95ad-481eb113cf1b",
+                        "shape": "Marker",
+                        "Event": "Studying at St Patricks High School",
+                        "Location": "5905 Bilton Lane, Halifax, Nova Scotia, Canada",
+                        "City": "Halifax",
+                        "Start": "1\/06\/1986, 9:00 am",
+                        "End": "1\/06\/1989, 10:30 am",
+                        "Added": "2021-09-20 12:17:24",
+                        "Updated": "2021-09-21 18:56:50"
+                },
+                "geometry": {
+                        "type": "Point",
+                        "coordinates": [-63.578406, 44.626122]
+                }
+        }]
 }
