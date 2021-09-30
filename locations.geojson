@@ -1,0 +1,41 @@
+{
+	"type": "FeatureCollection",
+	"name": "stops-in-life",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"id": "e938e5fc-f4af-4e39-8885-54ddcfcc195b",
+			"shape": "Marker",
+			"Event": "Consulting in Vancouver",
+			"Location": "2268 12th Ave West, Vancouver, BC V6K2N5",
+			"City": "Vancouver",
+			"Start": "15\/06\/2004, 9:00 am",
+			"End": "24\/06\/2020, 10:30 am",
+			"Added": "2021-09-20 12:17:24",
+			"Updated": "2021-09-21 18:56:50"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-123.156557, 49.261013]
+
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": "9f7bf0ac-f4ab-4698-961d-a8c72eded501",
+			"shape": "Marker",
+			"Event": "Working at Matsushita Denko",
+			"Location": "〒571-0033 大阪府門真市一番町６−3 ＭＡＤＯＫＡ２",
+			"City": "Osaka",
+			"Start": "1\/06\/1998, 9:00 am",
+			"End": "1\/06\/1999, 10:30 am",
+			"Added": "2021-09-20 12:17:24",
+			"Updated": "2021-09-21 18:56:50"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [135.594363, 34.732227]
+
+		}
+	}]
+}
