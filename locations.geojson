@@ -1,6 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": [{
+    "features": [
+{
+        "type": "Feature",
+        "properties": {
+            "id": "e938e5fc-f4af-4e39-8885-54ddcfcc195b",
+            "shape": "Marker",
+            "Event": "Working for Asahi Kasei",
+            "Location": "Atsugi, Kanagawa, Japan",
+            "City": "Atusgi",
+            "Start": "15/06/2004, 9:00 am",
+            "End": "24/06/2020, 10:30 am",
+            "Added": "2021-09-20 12:17:24",
+            "Updated": "2021-09-21 18:56:50"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.366827, 35.426512]
+        },
+        "id": "45462425-d2ac-4a88-b9fa-5a7630eb703b"
+    },{
         "type": "Feature",
         "properties": {
             "id": "e938e5fc-f4af-4e39-8885-54ddcfcc195b",
@@ -1286,5 +1305,161 @@
             ]
         },
         "id": "adef4505-4e1e-4e49-ae97-f792f676c55c"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-155.925957, 19.489897]
+        },
+        "id": "569f8bc2-6724-439a-9b24-2ecf81f16fc6"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-155.071621, 19.727928]
+        },
+        "id": "fec0c137-154e-467a-b45e-e45cd56c28c4"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-155.277651, 19.451054]
+        },
+        "id": "1a7111c6-a2ad-4b2f-8a0c-418d9b7e2e9c"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-155.816075, 19.106244]
+        },
+        "id": "01ebfde6-65fc-4237-a506-5f97b88b0663"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-156.005622, 19.645174]
+        },
+        "id": "c00a5d03-d04e-44ef-a1e1-6cd6a97b0f97"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.889911, 21.304728]
+        },
+        "id": "2e534036-c41c-4a19-a82f-9f1ba41a2f36"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.950346, 21.677848]
+        },
+        "id": "53f9f7e6-3c7d-4b9d-9f99-beeebcecb8e4"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-159.362336, 22.039822]
+        },
+        "id": "dcf8e210-11ed-4fb0-923e-c35ab172212b"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-159.593089, 22.278931]
+        },
+        "id": "2cc2154a-89e1-4ccc-b1c4-ae765a5deaed"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-134.024883, 56.170023]
+        },
+        "id": "e8f60f57-826a-4ada-80d5-17b2a5cb4dd5"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-136.837874, 59.310768]
+        },
+        "id": "4c6a0fa2-afeb-4e8e-8d2e-5db62c87e6eb"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-135.079755, 60.020952]
+        },
+        "id": "bf6d82e1-3624-4005-933d-3b41c8ecaf4e"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-220.633068, 35.426512]
+        },
+        "id": "45462425-d2ac-4a88-b9fa-5a7630eb703b"
     }]
 }
