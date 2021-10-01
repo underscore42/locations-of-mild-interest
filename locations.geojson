@@ -1449,17 +1449,5 @@
             "coordinates": [-135.079755, 60.020952]
         },
         "id": "bf6d82e1-3624-4005-933d-3b41c8ecaf4e"
-    }, {
-        "type": "Feature",
-        "properties": {
-            "shape": "Marker",
-            "name": "Unnamed Layer",
-            "category": "default"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-220.633068, 35.426512]
-        },
-        "id": "45462425-d2ac-4a88-b9fa-5a7630eb703b"
     }]
 }
